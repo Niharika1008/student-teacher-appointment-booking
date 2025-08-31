@@ -11,7 +11,7 @@ authDomain: "sports-buddy-app-37fff.firebaseapp.com",
 projectId: "sports-buddy-app-37fff",
 storageBucket: "sports-buddy-app-37fff.firebasestorage.app",
 messagingSenderId: "108021286167",
-appId: "1:108021286167:web:302cab2bf101d9441fe352"
+appId: import.meta.env.VITE_APP_ID,
 };
 
 
