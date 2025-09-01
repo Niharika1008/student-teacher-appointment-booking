@@ -79,7 +79,7 @@ Setup & Installation
 
 Clone the repository
 
-git clone https://github.com/Niharika1008/student-teacher-booking.git
+git clone https://github.com/Niharika1008/student-teacher-appointment-booking.git
 
 
 Frontend Setup
